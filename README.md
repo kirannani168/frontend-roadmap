@@ -197,6 +197,7 @@ __NOTE:__ My suggesstion is don't choose Ed-tech platforms just to learn skills,
 # Tools & IDEs
 - __VS Code__ is recommended IDE for all above technologies
 - __Git & GitHub__ - Learn Git as a part of version controlling, it is addon to your skills
+- __NPM Registry
 - __Chrome DevTools__ - [Click Here](https://developer.chrome.com/docs/devtools/)
 
 
